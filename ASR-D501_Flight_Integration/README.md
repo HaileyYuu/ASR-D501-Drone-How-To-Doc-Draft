@@ -17,3 +17,5 @@ The drone module solution is divided into five key subsystems. The table below o
 | **3** | **LiDAR Integration** | Spatial mapping and long-range detection capabilities using a 2D LiDAR sensor. | `ao_lidar_node2` folder | ✅ Active | [View Guide 🔗](https://docs.robotic-suite.advantech.com/docs/Solution/cognitive-autopilot/lidar_integration/) |
 | **4** | **IMU Dashboard** | IMU data monitoring for accurate flight orientation and attitude estimation. | check [ROS 2 IMU Dashboard Monitor](https://github.com/ADVANTECH-Corp/Robotic-Suite/tree/2.1/development_utilities/utility_tools/imu_dashboard_monitor) | ✅ Active | [View Guide 🔗](https://docs.robotic-suite.advantech.com/docs/Solution/cognitive-autopilot/imu_dashboard/) |
 | **5** | **System Monitor** | Real-time hardware monitoring tool. | `system_monitor.py` | ✅ Active | [View Guide 🔗](https://docs.robotic-suite.advantech.com/docs/Solution/cognitive-autopilot/system_monitor/) |
+
+test
